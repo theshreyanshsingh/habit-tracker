@@ -1,4 +1,4 @@
-# v1 habit-tracker
+# v2 habit-tracker
 
       This project was generated using Nolimit's AI-powered development platform.
 
